@@ -1,0 +1,22 @@
+Insights
+
+
+Insight 1: Grand Total of Seats Captured Calculate the overall number of seats secured by all parties combined.
+
+Insight 2: Total Number of Seats in the Lead Determine the total number of seats where parties are currently ahead.
+
+Insight 3: Party with the Highest Seat Count Identify the party that has won the most seats.
+
+Insight 4: Party with the Most Leads Find the party that is leading in the most seats.
+
+Insight 5: Top 5 Parties by Overall Performance Rank the top 5 parties based on their combined total of won and leading seats.
+
+Insight 6: Seat Share of Each Party Calculate the percentage of total seats won by each party.
+
+Insight 7: Average Seat Capture per Party Determine the mean number of seats won by each party.
+
+Insight 8: Median Seat Capture per Party Find the median number of seats won by each party.
+
+Insight 9: Seat Distribution Analysis Analyze the distribution and variability of seats won across all parties.
+
+Insight 10: Head-to-Head Comparison of Top 2 Parties Compare the top 2 parties in terms of their seat wins and leads
